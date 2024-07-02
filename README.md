@@ -51,7 +51,11 @@ Tap outside the input fields to hide the keyboard.
 ## Screenshots
 
 - **Home page iPhone 15 Pro Max (390x844 pixels)**
-<img src="https://github.com/Piyushhhhh/AddressFormEnhancer/blob/main/screenshots/Home.png" height="700" >
+<img src="https://github.com/Piyushhhhh/AddressFormEnhancer/blob/main/Screenshot/Home.png" height="700" >
 
 
 - **Walk-throuh Video iPhone 15 Pro Max (390x844 pixels)**
+  
+https://github.com/Piyushhhhh/AddressFormEnhancer/assets/40383768/465013de-5e3f-4923-8f3a-6242de36e887
+
+
